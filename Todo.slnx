@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Todo.Data/Todo.Data.csproj" Id="c2a0750f-39d4-4498-88eb-9c8be783f4f3" />
+  <Project Path="Todo.UI/Todo.UI.csproj" Id="72116db0-51b8-483c-be10-1212a467ac40" />
+</Solution>
